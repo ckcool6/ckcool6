@@ -4,10 +4,10 @@
 --->
 
 <a href="">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rzdtjb&show_icons=true&theme=radical" />
+  <img  width="350" src="https://github-readme-stats.vercel.app/api?username=rzdtjb&show_icons=true&theme=radical" />
 </a>   
 <a href="">
-  <img  align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzdtjb&layout=compact&theme=radical" />
+  <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzdtjb&layout=compact&theme=radical" />
 </a>
 
 <!---
