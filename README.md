@@ -3,12 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzdtjb&layout=compact&theme=radical)
 --->
 
-<a href="">
-  <img  width="350" src="https://github-readme-stats.vercel.app/api?username=rzdtjb&show_icons=true&theme=radical" />
-</a>   
-<a href="">
-  <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzdtjb&layout=compact&theme=radical" />
-</a>
+<img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzdtjb&layout=compact&theme=radical" />
 
 <!---
 rzdtjb/rzdtjb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
