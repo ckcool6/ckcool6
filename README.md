@@ -1,6 +1,9 @@
+## Activity
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckcool6&show_icons=true&theme=transparent)
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckcool6&show_icons=true)
-
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckcool6&layout=pie&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 rzdtjb/rzdtjb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
